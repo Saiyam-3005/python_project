@@ -1,4 +1,4 @@
-# python_project
+# Inventory Management
 An inventory management system is a software application used to track inventory levels, orders, sales, and deliveries. It helps businesses know how many products they have, their prices, total sales, and customer details. This system is vital for shops with computer setups, as it automates the tracking process.
 
 Key Components of an Inventory Management System:<br>
