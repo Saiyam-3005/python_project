@@ -1,1 +1,4 @@
-3,cookie,20,0
+1,5 Star,10,100
+2,cake,320,114
+3,cookie,20,21
+4,pastry,40,0
